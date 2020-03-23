@@ -1,0 +1,4 @@
+scrapy
+scrapy-selenium
+gspread
+oauth2client
